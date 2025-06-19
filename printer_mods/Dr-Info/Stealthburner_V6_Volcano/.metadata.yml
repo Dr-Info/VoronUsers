@@ -10,5 +10,5 @@ printer_compatibility:
 - VSW
 - VT
 stl:
-- STL_FILES/Stealth_Rapido_UHF_Toolhead_Front.stl
+- STL/stealthburner_printhead_v6_volcano_front.stl
 title: Stealthburner V6 Volcano
