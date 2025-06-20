@@ -1,0 +1,14 @@
+cad:
+- CAD/Stealthburner_Printhead_V6_Volcano.step
+description: Stealthburner mod for V6 Volcano
+images:
+- IMAGES/Stealthburner_V6_Volcano_Front.JPG
+- IMAGES/Stealthburner_Printhead_V6_Volcano.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VSW
+- VT
+stl:
+- STL/stealthburner_printhead_v6_volcano_front.stl
+title: Stealthburner V6 Volcano
